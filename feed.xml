@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>ICPSQuad-2</title>
+    <title>ICPSquad</title>
     <link href="https://devteamquantum.github.io/icpsquad/feed.xml" rel="self" />
     <link href="https://devteamquantum.github.io/icpsquad" />
     <updated>2024-11-18T14:49:01+01:00</updated>
@@ -14,8 +14,8 @@
         <author>
             <name>ICPSquad Team</name>
         </author>
-        <link href="https://devteamquantum.github.io/icpsquad/nft-projects-taking-advantage-of-the-bear-market-to-build-3.html"/>
-        <id>https://devteamquantum.github.io/icpsquad/nft-projects-taking-advantage-of-the-bear-market-to-build-3.html</id>
+        <link href="https://devteamquantum.github.io/icpsquad/nft-projects-taking-advantage-of-the-bear-market-to-build-3/"/>
+        <id>https://devteamquantum.github.io/icpsquad/nft-projects-taking-advantage-of-the-bear-market-to-build-3/</id>
         <media:content url="https://devteamquantum.github.io/icpsquad/media/posts/3/build.jpg" medium="image" />
 
         <updated>2024-11-18T14:48:57+01:00</updated>
@@ -47,8 +47,8 @@
         <author>
             <name>ICPSquad Team</name>
         </author>
-        <link href="https://devteamquantum.github.io/icpsquad/nft-projects-taking-advantage-of-the-bear-market-to-build-2.html"/>
-        <id>https://devteamquantum.github.io/icpsquad/nft-projects-taking-advantage-of-the-bear-market-to-build-2.html</id>
+        <link href="https://devteamquantum.github.io/icpsquad/nft-projects-taking-advantage-of-the-bear-market-to-build-2/"/>
+        <id>https://devteamquantum.github.io/icpsquad/nft-projects-taking-advantage-of-the-bear-market-to-build-2/</id>
         <media:content url="https://devteamquantum.github.io/icpsquad/media/posts/2/build.jpg" medium="image" />
 
         <updated>2024-11-18T14:48:50+01:00</updated>
@@ -80,8 +80,8 @@
         <author>
             <name>ICPSquad Team</name>
         </author>
-        <link href="https://devteamquantum.github.io/icpsquad/nft-projects-taking-advantage-of-the-bear-market-to-build.html"/>
-        <id>https://devteamquantum.github.io/icpsquad/nft-projects-taking-advantage-of-the-bear-market-to-build.html</id>
+        <link href="https://devteamquantum.github.io/icpsquad/nft-projects-taking-advantage-of-the-bear-market-to-build/"/>
+        <id>https://devteamquantum.github.io/icpsquad/nft-projects-taking-advantage-of-the-bear-market-to-build/</id>
         <media:content url="https://devteamquantum.github.io/icpsquad/media/posts/1/build.jpg" medium="image" />
 
         <updated>2024-11-18T14:48:28+01:00</updated>
